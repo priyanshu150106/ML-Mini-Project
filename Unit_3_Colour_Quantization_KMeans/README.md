@@ -38,3 +38,4 @@ Across 24 test images ($512 \times 768$ pixels):
 python colour_quantization.py
 ```
 Or open `Unit_3_Colour_Quantization.ipynb` in Jupyter Notebook / Google Colab.
+

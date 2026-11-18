@@ -249,3 +249,4 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Unit 3 Colour Quantization")
     args = parser.parse_args()
     run_unit_3()
+

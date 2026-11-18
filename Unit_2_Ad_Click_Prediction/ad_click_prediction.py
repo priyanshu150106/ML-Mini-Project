@@ -161,3 +161,4 @@ if __name__ == "__main__":
     parser.add_argument("--csv", default="advertising.csv", help="Path to advertising.csv")
     args = parser.parse_args()
     run_unit_2(csv_path=args.csv)
+

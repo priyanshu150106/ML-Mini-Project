@@ -35,3 +35,4 @@ This unit implements an acoustic wake-word spotting system for the trigger word 
 python wake_word_hmm.py --exp 2
 ```
 Or open `Unit_4_Wake_Word_HMM.ipynb` in Jupyter Notebook / Google Colab.
+

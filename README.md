@@ -294,3 +294,4 @@ Or open the respective Google Colab links provided in the summary table above.
 
 ## 📄 License
 This repository is developed for academic evaluation under the 2021 Regulation of SRM Institute of Science and Technology and is released under the [MIT License](LICENSE).
+
